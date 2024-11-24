@@ -1,0 +1,22 @@
+{
+  "name": "armchat",
+  "version": "1.0.0",
+  "description": "WebRTC Chat Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aswinrathees/ArmChat.git"
+  },
+  "author": "Aswin R",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aswinrathees/ArmChat/issues"
+  },
+  "homepage": "https://github.com/aswinrathees/ArmChat#readme",
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
